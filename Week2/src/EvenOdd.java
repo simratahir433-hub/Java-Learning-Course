@@ -8,7 +8,7 @@ public class EvenOdd {
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
 
-        // COndition
+        // Condition
         if (number % 2 == 0) {
             System.out.println(number + " is an even number.");
         } else {

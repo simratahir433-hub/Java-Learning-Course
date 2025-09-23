@@ -4,7 +4,7 @@ public class LoginSimulator {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
 
-         // Taking input from user
+         // Asking for username & password
          String username;
          String password;
          System.out.print("Enter Username: ");
@@ -12,7 +12,7 @@ public class LoginSimulator {
          System.out.print("Enter Password: ");
          password = scanner.nextLine();
          
-         // COndition
+         // Condition
          if (username.equals("admin") && password.equals("admin123")) {            System.out.println("Login Successful!");  
          }
          else{
