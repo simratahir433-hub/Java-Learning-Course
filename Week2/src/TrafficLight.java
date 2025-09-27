@@ -5,7 +5,7 @@ public class TrafficLight {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a traffic light color (red, yellow, green): ");
-        String color = scanner.nextLine().toLowerCase(); // convert input to lowercase
+        String color = scanner.nextLine().toLowerCase();
 
         if (color.equals("red")) {
             System.out.println("Stop");

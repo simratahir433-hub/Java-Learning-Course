@@ -1,3 +1,5 @@
+// Week 1 project
+
 import java.util.Scanner;
 
 public class TipCalculator {
