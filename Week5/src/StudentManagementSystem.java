@@ -1,4 +1,4 @@
-// Project of Week 5
+// "Project of Week 5"
 
 import java.util.Scanner;
 
