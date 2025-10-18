@@ -72,7 +72,7 @@ public class StudentManagementSystem {
         int choice;
 
         do {
-            System.out.println("____ Simple Student Management System ____");
+            System.out.println("____ Student Management System ____");
             System.out.println("1. Add Student");
             System.out.println("2. View Student");
             System.out.println("3. Remove Student");
